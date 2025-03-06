@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Nicolas Korchaque! 👋
 
 
-Sou estudante do ensino médio e gosto de explorar o mundo da programação. Sou um grande fã de Star Wars e sou louco pela cultura geek. seja bem vindo ao meu **GitHub**
+Sou estudante do ensino médio e gosto de explorar o mundo da programação. Sou um grande fã de Star Wars e sou louco pela cultura geek. E quero te dar as boas vendas ao meu **GitHub**
 
 
 ### Essas são algumas tecnologias que eu estou aprendendo 
